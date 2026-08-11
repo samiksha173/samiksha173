@@ -19,7 +19,7 @@
 
 </div>
 
----
+
 
 ## 🌷 About Me
 
@@ -40,7 +40,7 @@ my technical and problem-solving skills.
 
 > 💡 **Learn • Build • Experiment • Improve**
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -75,7 +75,7 @@ Exploring blockchain fundamentals and implementation using Java.
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
 </p>
 
----
+
 
 # 🚀 Featured Projects
 
@@ -86,7 +86,7 @@ blocks, hashing and chain validation.
 
 **Tech:** `Java`
 
----
+
 
 ### 🖥️ Simple Blockchain GUI
 
@@ -95,7 +95,7 @@ visualize basic blockchain concepts.
 
 **Tech:** `Java`
 
----
+
 
 ### 🤖 Titanic Supervised Models
 
@@ -104,7 +104,7 @@ the Titanic dataset.
 
 **Tech:** `Python` • `Scikit-learn`
 
----
+
 
 ### 🚢 Titanic Dataset
 
@@ -122,7 +122,7 @@ and supervised learning techniques.
 
 **Tech:** `Python` • `Machine Learning`
 
----
+
 
 ### 📊 Advertising Sales
 
@@ -131,7 +131,7 @@ between advertising expenditure and sales.
 
 **Tech:** `Python` • `Pandas` • `Machine Learning`
 
----
+
 
 # 🤖 Machine Learning Journey
 
@@ -161,7 +161,7 @@ I'm exploring the fundamentals of Blockchain Technology:
 🧮 Proof of Work
 💻 Blockchain with Java
 🖥️ Blockchain GUI Applications
-```
+
 
 
 
