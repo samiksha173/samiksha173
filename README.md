@@ -123,7 +123,6 @@ between advertising expenditure and sales.
 **Tech:** `Python` • `Pandas` • `Machine Learning`
 
 ---
-
 # 🤖 Machine Learning Journey
 
 Currently exploring:
@@ -139,7 +138,6 @@ Currently exploring:
 📋 Dataset Analysis
 📊 Model Evaluation
 
----
 ⛓️ Blockchain Journey
 
 I'm exploring the fundamentals of Blockchain Technology by building practical projects with Java.
@@ -159,29 +157,3 @@ I'm exploring the fundamentals of Blockchain Technology by building practical pr
 🔥 Improving every day
 
 </div>
-🎯 My Goals
-📚 Strengthen Data Structures & Algorithms
-🤖 Learn Advanced Machine Learning
-⛓️ Explore Blockchain Development
-💻 Build Real-World Applications
-🌐 Improve Web Development Skills
-🚀 Contribute to Open Source
-🧠 Become a Better Software Engineer
-🌱 Currently Learning
-<div align="center">
-
-🐍 Python   •  
-☕ Java   •  
-🤖 Machine Learning   •  
-📊 Data Analysis   •  
-⛓️ Blockchain   •  
-🧩 Data Structures & Algorithms
-
-</div>
-🤝 Let's Connect
-<div align="center"> <a href="https://github.com/samiksha173"> <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/> </a> <a href="https://mail.google.com/mail/?view=cm&fs=1&to=tartesamiksha@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </div> <br> <div align="center">
-💜 Thanks for visiting my profile!
-
-Code • Learn • Build • Grow 🚀
-
-</div> ```
