@@ -180,6 +180,8 @@ I'm exploring the fundamentals of Blockchain Technology by building practical pr
 📚 Learning new technologies  
 🔥 Improving every day
 
+---
+
 # 🎯 My Goals
 
 - 📚 Strengthen Data Structures & Algorithms
