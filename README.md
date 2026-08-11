@@ -19,7 +19,7 @@
 
 </div>
 
-
+---
 
 ## 🌷 About Me
 
@@ -40,6 +40,7 @@ my technical and problem-solving skills.
 
 > 💡 **Learn • Build • Experiment • Improve**
 
+---
 
 
 ## 🛠️ Tech Stack
@@ -75,7 +76,7 @@ Exploring blockchain fundamentals and implementation using Java.
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
 </p>
 
-
+---
 
 # 🚀 Featured Projects
 
@@ -131,7 +132,7 @@ between advertising expenditure and sales.
 
 **Tech:** `Python` • `Pandas` • `Machine Learning`
 
-
+---
 
 # 🤖 Machine Learning Journey
 
@@ -161,6 +162,7 @@ I'm exploring the fundamentals of Blockchain Technology by building practical pr
 - 💻 Blockchain with Java
 - 🖥️ Blockchain GUI Applications
 
+---
 
 # 📊 GitHub Activity
 
@@ -179,7 +181,7 @@ I'm exploring the fundamentals of Blockchain Technology by building practical pr
 💻 Building projects  
 📚 Learning new technologies  
 🔥 Improving every day
-
+</div>
 ---
 
 # 🎯 My Goals
