@@ -240,9 +240,4 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=samiksha173&
 
 **"Code. Learn. Build. Grow. 🚀"**
 
-<img src="https://komarev.com/ghpvc/?username=samiksha173&label=Profile%20Views&color=6C63FF&style=for-the-badge"/>
-
-</div>
-```
-
 
