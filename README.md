@@ -150,30 +150,26 @@ Currently exploring:
 ````
 
 
-# ⛓️ Blockchain Journey
+## ⛓️ Blockchain Journey
 
-I'm exploring the fundamentals of Blockchain Technology:
+I'm exploring the fundamentals of Blockchain Technology by building practical projects with Java.
 
-```text
-🔗 Blocks & Transactions
-🔐 Hashing
-⛓️ Blockchain Structure
-🧮 Proof of Work
-💻 Blockchain with Java
-🖥️ Blockchain GUI Applications
+- 🔗 Blocks & Transactions
+- 🔐 Cryptographic Hashing
+- ⛓️ Blockchain Structure
+- 🧮 Proof of Work
+- 💻 Blockchain with Java
+- 🖥️ Blockchain GUI Applications
 
-
-
+---
 
 # 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=samiksha173&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=samiksha173&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=samiksha173&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samiksha173&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -185,6 +181,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=samiksha173&
 
 </div>
 
+---
 
 # 🏆 GitHub Trophies
 
@@ -194,24 +191,34 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=samiksha173&
 
 </div>
 
-
+---
 
 # 🎯 My Goals
 
-* 📚 Strengthen Data Structures & Algorithms
-* 🤖 Learn Advanced Machine Learning
-* ⛓️ Explore Blockchain Development
-* 💻 Build Real-World Applications
-* 🌐 Improve Web Development Skills
-* 🚀 Contribute to Open Source
-* 🧠 Become a Better Software Engineer
+- 📚 Strengthen Data Structures & Algorithms
+- 🤖 Learn Advanced Machine Learning
+- ⛓️ Explore Blockchain Development
+- 💻 Build Real-World Applications
+- 🌐 Improve Web Development Skills
+- 🚀 Contribute to Open Source
+- 🧠 Become a Better Software Engineer
 
-
+---
 
 # 🌱 Currently Learning
 
-**Python • Java • Machine Learning • Data Analysis • Blockchain • DSA**
+<div align="center">
 
+🐍 **Python** &nbsp; • &nbsp;
+☕ **Java** &nbsp; • &nbsp;
+🤖 **Machine Learning** &nbsp; • &nbsp;
+📊 **Data Analysis** &nbsp; • &nbsp;
+⛓️ **Blockchain** &nbsp; • &nbsp;
+🧩 **Data Structures & Algorithms**
+
+</div>
+
+---
 
 # 🤝 Let's Connect
 
@@ -222,16 +229,17 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=samiksha173&
 </a>
 
 <a href="mailto:tartesamiksha@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
+<br>
 
 <div align="center">
 
 ### 💜 Thanks for visiting my profile!
 
-**"Code. Learn. Build. Grow. 🚀"**
+**Code • Learn • Build • Grow 🚀**
 
-
+</div>
