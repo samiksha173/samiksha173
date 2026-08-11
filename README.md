@@ -161,19 +161,8 @@ I'm exploring the fundamentals of Blockchain Technology by building practical pr
 - 💻 Blockchain with Java
 - 🖥️ Blockchain GUI Applications
 
----
 
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=samiksha173&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samiksha173&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
+# 📊 GitHub Activity
 
 <div align="center">
 
@@ -181,17 +170,15 @@ I'm exploring the fundamentals of Blockchain Technology by building practical pr
 
 </div>
 
----
-
-# 🏆 GitHub Trophies
+<br>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=samiksha173&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
+### 🚀 53+ Contributions & Counting
 
-</div>
-
----
+💻 Building projects  
+📚 Learning new technologies  
+🔥 Improving every day
 
 # 🎯 My Goals
 
