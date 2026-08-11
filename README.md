@@ -1,6 +1,4 @@
 
-
-````markdown
 <div align="center">
 
 # 👋 Hi, I'm Samiksha Sominaath!
@@ -151,7 +149,6 @@ Currently exploring:
 📊 Model Evaluation
 ````
 
----
 
 # ⛓️ Blockchain Journey
 
@@ -166,7 +163,7 @@ I'm exploring the fundamentals of Blockchain Technology:
 🖥️ Blockchain GUI Applications
 ```
 
----
+
 
 # 📊 GitHub Statistics
 
@@ -188,7 +185,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=samiksha173&
 
 </div>
 
----
 
 # 🏆 GitHub Trophies
 
@@ -198,7 +194,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=samiksha173&
 
 </div>
 
----
+
 
 # 🎯 My Goals
 
@@ -210,13 +206,12 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=samiksha173&
 * 🚀 Contribute to Open Source
 * 🧠 Become a Better Software Engineer
 
----
+
 
 # 🌱 Currently Learning
 
 **Python • Java • Machine Learning • Data Analysis • Blockchain • DSA**
 
----
 
 # 🤝 Let's Connect
 
@@ -232,7 +227,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=samiksha173&
 
 </div>
 
----
 
 <div align="center">
 
